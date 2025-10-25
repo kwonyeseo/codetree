@@ -7,7 +7,7 @@ int main() {
     int A = 0;
 
     for (int i = 0; i < 3; i++) {
-        scanf("%c %d ", &v[i], &t[i]);
+        scanf(" %c %d", &v[i], &t[i]);
     }
     for (int i = 0; i < 3; i++) {
         if (v[i] == 'Y' && t[i] >= 37) {
