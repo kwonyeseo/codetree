@@ -16,7 +16,7 @@ public class Main {
             }else if (i >= 60) {
                 System.out.printf("D ");
             }else {
-                System.out.printf("E ");
+                System.out.printf("F ");
             }
         }
     }
